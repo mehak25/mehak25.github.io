@@ -15,4 +15,7 @@ As a PhD candidate in Computer Science, I work on advanced machine learning prob
 My research interest is in Artificial Intelligence (AI) and its interdisciplinary applications in healthcare. Within AI, I am interested in problems related to natural language processing, representation learning, predictive modeling with supervised and semi-supervised deep learning models. 
 I am also interested in improving the fairness and explainability of AI systems to enhance their usability and adaptability.
 
-##Education
+###Education
+-PhD, Computer Science, University of Delaware, USA, 2018-2023
+-ME, Software Engineering, Thapar University, India, 2012-2014
+-BE, Computer Engineering, Punjabi University, India, 2006-2010
