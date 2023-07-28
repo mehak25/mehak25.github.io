@@ -18,7 +18,6 @@ published: true
 0. Mehak Gupta, Brennan Gallamoza, Nicolas Cutrona, Pranjal Dhakal, Raphael Poulain, and Rahmatollah Beheshti. “*An Extensive Data Processing Pipeline for MIMIC-IV*”. In Proceedings of the 2nd Machine Learning for Health symposium, volume 193 of Proceedings of Machine Learning Research, pages 311–325. PMLR. 2022 ([View](https://proceedings.mlr.press/v193/gupta22a.html))
 
 0. Raphael Poulain, Mehak Gupta, and Rahmatollah Beheshti. “*Few-Shot Learning with Semi-Supervised Transformers for Electronic Health Records.*”. Machine Learning for Healthcare Conference, pages 1–21, 2022. ([View](https://static1.squarespace.com/static/59d5ac1780bd5ef9c396eda6/t/62e97a83db963576550e863e/1659468419684/131+MLHC_Raphael_CEHR_GAN_BERT+\%281\%29.pdf))
-
 {: reversed="reversed"}
 
 
