@@ -8,7 +8,7 @@ published: true
 ---
 
 
-#### About Me ([Download CV](MG_CV_.pdf))
+#### About Me ([Download CV](MG_CV.pdf))
 I am a PhD Graduate from the department of Computer and Information Sciences at the University of Delaware. 
 I did my doctoral research at the <a href="https://sites.udel.edu/healthylaife/"><i>Healthy lAIfe Lab</i></a>, under the advisement of Prof. Rahmatollah Beheshti.
 I work in the area of Artificial Intelligence (AI) and its interdisciplinary applications in healthcare. 
