@@ -4,7 +4,7 @@ description: Assistant Professor at Southern Methodist University
 
 baseurl: "" #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
-email: lcarnevale@unime.it
+email: mehakg@smu.edu
 
 highlighter: rouge
 markdown: kramdown
