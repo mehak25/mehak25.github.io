@@ -15,6 +15,7 @@ I work in the area of Artificial Intelligence (AI) and its interdisciplinary app
 
 I will be starting as Assistant Professor at Southern Methodist University in Fall 2023. I am actively looking for self-motivated students interested in deep learning and natural language processing with applications in healthcare. Please feel free to send me an email with your Resume/CV, along with a cover letter/statement of purpose and transcripts (unofficial) if you are interested!
 
+[Download CV](MG_CV_.pdf "download")
 
 #### Education
 
