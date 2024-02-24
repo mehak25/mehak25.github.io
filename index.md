@@ -9,13 +9,13 @@ published: true
 
 
 #### About Me ([Download CV](MG_CV.pdf))
-I am a PhD Graduate from the department of Computer and Information Sciences at the University of Delaware. 
+I am an Assistant Professor in Department of Computer Science at Southern Methodist University.
 I did my doctoral research at the <a href="https://sites.udel.edu/healthylaife/"><i>Healthy lAIfe Lab</i></a>, under the advisement of Prof. Rahmatollah Beheshti.
 I work in the area of Artificial Intelligence (AI) and its interdisciplinary applications in healthcare. 
 
-<span style="color:blue">*I will be starting as Assistant Professor at Southern Methodist University in Fall 2023. 
+<span style="color:blue">
 I am actively looking for self-motivated students interested in deep learning and natural language processing with applications in healthcare. 
-Please feel free to send me an email with your Resume/CV, along with a cover letter/statement of purpose and transcripts (unofficial) if you are interested!</span>
+Please feel free to send me an email with your Resume/CV, if you are interested!</span>
 
 
 
