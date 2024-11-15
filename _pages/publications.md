@@ -7,12 +7,24 @@ published: true
 
 ## Journal Papers
 
+#### 2024
+0. Mehak Gupta, Thao-Ly T Phan, F´elice Lˆe-Scherban, Daniel Eckrich, H Timothy Bunnell and Rahmatollah Beheshti. "*Associations of
+Longitudinal BMI-Percentile Classification Patterns in Early Childhood with Neighborhood-
+Level Social Determinants of Health*". Childhood Obesity 2024 Aug 26; PubMed PMID: 39187268. ([View]([https://dl.acm.org/doi/abs/10.1145/3506719](https://www.liebertpub.com/doi/pdf/10.1089/chi.2023.0157?casa_token=cvdNk8GzCf8AAAAA:zceYGTk5ZQwnWCpJI2k8Tj35lQLNG8VIfSlbk6xtbP3JPjCeOf076p4v5nj1TtzjuMFL6aUZxLbMuyI))) 
+{: reversed="reversed"}
+
+0. Mehak Gupta, Thao-Ly T Phan, Daniel Eckrich, H Timothy Bunnell and Rahmatollah Beheshti "*Obesity prediction with ehr data: A deep learning approach with interpretable elements*". Obesity Pillars. 2024 September 10; :100128. DOI: 10.1016/j.obpill.2024.100128. ([View]([https://dl.acm.org/doi/abs/10.1145/3506719](https://pubmed.ncbi.nlm.nih.gov/39315061/))) 
+{: reversed="reversed"}
+
 #### 2022
 0. Mehak Gupta, Thao-Ly T Phan, H Timothy Bunnell, and Rahmatollah Beheshti. "*Obesity prediction with ehr data: A deep learning approach with interpretable elements*". ACM Transactions on Computing for Healthcare (HEALTH), 3(3):1–19, 2022 ([View](https://dl.acm.org/doi/abs/10.1145/3506719)) 
 {: reversed="reversed"}
 
 
 ## Conference Papers
+
+#### 2024
+0. Fahmida Liza Piya, Mehak Gupta and Rahmatollah Beheshti. “*HealthGAT: Node Classifications in Electronic Health Records using Graph Attention Networks*”. IEEE/ACM International Conference on Connected Health: Applications, Systems and Engineering Technologies (CHASE) ([View]([https://proceedings.mlr.press/v193/gupta22a.html](https://dl.acm.org/doi/10.1109/CHASE60773.2024.00022)))
 
 #### 2022
 0. Mehak Gupta, Brennan Gallamoza, Nicolas Cutrona, Pranjal Dhakal, Raphael Poulain, and Rahmatollah Beheshti. “*An Extensive Data Processing Pipeline for MIMIC-IV*”. In Proceedings of the 2nd Machine Learning for Health symposium, volume 193 of Proceedings of Machine Learning Research, pages 311–325. PMLR. 2022 ([View](https://proceedings.mlr.press/v193/gupta22a.html))
