@@ -15,7 +15,7 @@ I work in the area of Artificial Intelligence (AI) and its interdisciplinary app
 
 <span style="color:blue">
 I am actively looking for self-motivated students interested in deep learning and natural language processing with applications in healthcare. 
-Please feel free to send me an email with your Resume/CV, if you are interested!</span>
+Please apply to PhD program in Computer Science at Southern Methodist University, if you are interested!</span>
 
 
 
