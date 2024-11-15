@@ -34,7 +34,7 @@ Please apply to PhD program in Computer Science at Southern Methodist University
 - Natural Language Processing
 
 #### News
-
+<a href="https://www.medscape.com/viewarticle/can-ai-plus-electronic-health-records-predict-childhood-2024a1000jve?form=fpf"><i>Medscape Article</i></a>
 - May 2023: Defended PhD Dissertation
 - April 2023: Received Frank A. Pehrson Graduate Student Award for Outstanding Computer Science Research
 - November 2022: Travel Award to travel to ML4H for poster presentation
