@@ -13,11 +13,6 @@ I am an Assistant Professor in Department of Computer Science at Southern Method
 I did my doctoral research at the <a href="https://sites.udel.edu/healthylaife/"><i>Healthy lAIfe Lab</i></a>, under the advisement of Prof. Rahmatollah Beheshti.
 I work in the area of Artificial Intelligence (AI) and its interdisciplinary applications in healthcare. 
 
-<span style="color:blue">
-I am actively looking for self-motivated students interested in deep learning and natural language processing with applications in healthcare. 
-Please apply to PhD program in Computer Science at Southern Methodist University, if you are interested!</span>
-
-
 
 #### Education
 
@@ -27,6 +22,7 @@ Please apply to PhD program in Computer Science at Southern Methodist University
 
 #### Research Interests
 
+- NLP in Clinical Data
 - Artificial Intelligence (AI) and its interdisciplinary applications in healthcare
 - Deep Learning
 - Representation Learning
