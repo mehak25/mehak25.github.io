@@ -31,6 +31,9 @@ I work in the area of Artificial Intelligence (AI) and its interdisciplinary app
 
 #### News
 <a href="https://www.medscape.com/viewarticle/can-ai-plus-electronic-health-records-predict-childhood-2024a1000jve?form=fpf"><i>Medscape Article</i></a>
+- August 2024 received Faculty Acceleration Grant ($50,000) at SMU
+- April 2025 '20 under 40' by People Newspaper for reserach impact
+- January 2024 received DCII Grant ($32,000) at SMU
 - May 2023: Defended PhD Dissertation
 - April 2023: Received Frank A. Pehrson Graduate Student Award for Outstanding Computer Science Research
 - November 2022: Travel Award to travel to ML4H for poster presentation
